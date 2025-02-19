@@ -22,7 +22,8 @@ Store locations—Identifies sales performance across multiple locations.
 
 Product-level details—Tracks product categories, unit prices, and sales volume.
 
-Dataset Source: Kaggle - Coffee Sales Dataset
+Dataset Source: Kaggle - Coffee Sales Dataset https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data 
+
 
 📊 Key Insights & KPIs
 
@@ -41,6 +42,7 @@ Total Orders Analysis—Tracks the total number of transactions.
 
 
 Total Quantity Sold Analysis—Shows the total number of products sold.
+
 
 📈 Visuals & Charts
 
