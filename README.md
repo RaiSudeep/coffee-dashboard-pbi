@@ -1,4 +1,4 @@
-☕ Power BI Coffee Sales Dashboard
+### ☕ Power BI Coffee Sales Dashboard
 
 📌 Overview
 
